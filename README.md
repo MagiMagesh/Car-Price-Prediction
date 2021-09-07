@@ -1,13 +1,18 @@
 # End-End-Model-Building
 
-## This model has Car Dataset.
+### 1. This model has Car Dataset.
 
-## Done the EDA and Feature Engineering 
+### 2. Done the EDA and Feature Engineering 
 
-## In Feature Engineering Since the Features are less gone with the creation of dummy variables.
+### 3. In Feature Engineering Since the Features are less gone with the creation of dummy variables.
 
-## For Feature selection used ExtraTreesRegressor
+### 4. For Feature selection used ExtraTreesRegressor
 
-## Model used for prediction RandomForestRegressor
+### 5. Model / Classifior used for prediction RandomForestRegressor
 
-## RandomisedSearchCV used to test an Hyperparameters for RandomForestRegressor
+### 6. RandomisedSearchCV used to test an Hyperparameters for RandomForestRegressor
+
+In Next part will deal with different 
+1. Feature Selection
+2. Feature Selection Module like ChiSquare Test, MAD, Variance Threshold
+3. Model / Classifior used for prediction like XG boost, Decision Tree, Linear Regression
