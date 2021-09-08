@@ -1,5 +1,7 @@
 # End-End-Model-Building
 
+## The model is good since the Normal distribution occurs in the testing
+
 ### 1. This model has Car Dataset.
 
 ### 2. Done the EDA and Feature Engineering 
