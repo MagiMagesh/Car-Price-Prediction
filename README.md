@@ -1,21 +1,13 @@
 # End-End-Model-Building
 
-## The model is good since the Normal distribution occurs in the testing
+1. Performed EDA and Feature Engineering and Feature Selection.
+2. The model has the good accuracy 
 
-### 1. This model has Car Dataset.
+![Capture1](https://user-images.githubusercontent.com/86392043/133126140-ece701c9-86b4-4738-a976-768d26a6c39f.PNG)
 
-### 2. Done the EDA and Feature Engineering 
 
-### 3. In Feature Engineering Since the Features are less gone with One Hot Encoding.
+## Created an Flask Application
+![Capture](https://user-images.githubusercontent.com/86392043/133125925-b2febe6f-257e-430a-92d1-e7ebc8cd1676.PNG)
 
-### 4. For Feature selection used ExtraTreesRegressor
 
-### 5. Model / Classifior used for prediction RandomForestRegressor
 
-### 6. RandomisedSearchCV used to test an Hyperparameters for RandomForestRegressor
-
-In Next part will deal with different mehods like
-1. Feature Engineering by using Categorical Encoding, Log Transform, Feature Grouping
-2. Feature Selection Module like ChiSquare Test, MAD, Variance Threshold
-3. Model / Classifior used for prediction like XG boost, Decision Tree, Linear Regression.
-4. Grid Search used to test an Hyperparameters
